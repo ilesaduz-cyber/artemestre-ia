@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "artemestre-ia",
+  "description": "ArteMestre IA — Skill de direção criativa e produção visual",
+  "owner": {
+    "name": "Guinão Morais",
+    "url": "https://github.com/ilesaduz-cyber"
+  },
+  "plugins": [
+    {
+      "name": "artemestre-ia",
+      "description": "Direção criativa e produção visual por IA: arte, personagens consistentes, 3D, anúncios, logos e assets de jogos.",
+      "source": "./",
+      "category": "design",
+      "homepage": "https://github.com/ilesaduz-cyber/artemestre-ia"
+    }
+  ]
+}

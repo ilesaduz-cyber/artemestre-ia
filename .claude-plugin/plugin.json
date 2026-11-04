@@ -1,0 +1,22 @@
+{
+  "name": "artemestre-ia",
+  "description": "Direção criativa e produção visual por IA: arte, personagens consistentes, 3D, anúncios, logos e assets de jogos, com controle de qualidade.",
+  "version": "3.0.0",
+  "author": {
+    "name": "Guinão Morais",
+    "url": "https://github.com/ilesaduz-cyber"
+  },
+  "license": "MIT",
+  "keywords": [
+    "claude-skills",
+    "art-direction",
+    "image-generation",
+    "character-consistency",
+    "game-assets",
+    "branding",
+    "3d"
+  ],
+  "skills": "./",
+  "homepage": "https://github.com/ilesaduz-cyber/artemestre-ia",
+  "repository": "https://github.com/ilesaduz-cyber/artemestre-ia"
+}
